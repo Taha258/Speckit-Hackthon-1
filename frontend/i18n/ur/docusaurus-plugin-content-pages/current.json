@@ -1,0 +1,30 @@
+{
+  "homepage.hero.title": {
+    "message": "فزیکل اے آئی اور ہیومینائیڈ روبوٹکس",
+    "description": "Homepage hero title"
+  },
+  "homepage.hero.subtitle": {
+    "message": "آپ کی اے آئی-نیٹو ٹیکسٹ بک",
+    "description": "Homepage hero subtitle"
+  },
+  "homepage.start_reading": {
+    "message": "پڑھنا شروع کریں",
+    "description": "Homepage start reading button"
+  },
+  "homepage.github": {
+    "message": "گیت ہب",
+    "description": "Homepage GitHub button"
+  },
+  "homepage.features.ai_generated": {
+    "message": "اے آئی-جنریٹڈ مواد",
+    "description": "AI Generated Content feature title"
+  },
+  "homepage.features.dynamic": {
+    "message": "متحرک اور زندہ",
+    "description": "Dynamic & Alive feature title"
+  },
+  "homepage.features.future": {
+    "message": "تدریس کا مستقبل",
+    "description": "Future of Education feature title"
+  }
+}
