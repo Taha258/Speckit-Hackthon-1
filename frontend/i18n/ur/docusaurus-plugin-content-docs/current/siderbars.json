@@ -1,0 +1,48 @@
+{
+  "tutorialSidebar": [
+    {
+      "type": "doc",
+      "id": "index"
+    },
+    {
+      "type": "doc",
+      "id": "chapters/chapter-1"
+    },
+    {
+      "type": "doc",
+      "id": "chapters/chapter-2"
+    },
+    {
+      "type": "doc",
+      "id": "chapters/chapter-3"
+    },
+    {
+      "type": "doc",
+      "id": "chapters/chapter-4"
+    },
+    {
+      "type": "doc",
+      "id": "chapters/chapter-5"
+    },
+    {
+      "type": "doc",
+      "id": "chapters/chapter-6"
+    },
+    {
+      "type": "doc",
+      "id": "chapters/chapter-7"
+    },
+    {
+      "type": "doc",
+      "id": "chapters/chapter-8"
+    },
+    {
+      "type": "doc",
+      "id": "chapters/chapter-9"
+    },
+    {
+      "type": "doc",
+      "id": "chapters/chapter-10"
+    }
+  ]
+}

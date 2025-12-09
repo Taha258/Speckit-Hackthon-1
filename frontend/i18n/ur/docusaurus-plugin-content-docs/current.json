@@ -1,0 +1,30 @@
+{
+  "version.label": {
+    "message": "اصل ورژن",
+    "description": "The label for the current version"
+  },
+  "theme.docs.breadcrumbs.home": {
+    "message": "ہوم",
+    "description": "The ARIA label for the home page in the breadcrumbs"
+  },
+  "theme.docs.sidebar.collapseButtonTitle": {
+    "message": "سائیڈ بار کو بند کریں",
+    "description": "The title attribute for the collapse button of the docs sidebar"
+  },
+  "theme.docs.sidebar.expandButtonTitle": {
+    "message": "سائیڈ بار کو کھولیں",
+    "description": "The title attribute for the expand button of the docs sidebar"
+  },
+  "theme.docs.paginator.navAriaLabel": {
+    "message": "دستاویزات کے صفحات",
+    "description": "The ARIA label for the docs pagination"
+  },
+  "theme.docs.paginator.previous": {
+    "message": "پچھلا",
+    "description": "The label used for the previous pagination button in docs"
+  },
+  "theme.docs.paginator.next": {
+    "message": "اگلا",
+    "description": "The label used for the next pagination button in docs"
+  }
+}

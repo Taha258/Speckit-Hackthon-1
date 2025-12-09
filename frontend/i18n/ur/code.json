@@ -1,0 +1,278 @@
+{
+  "theme.CodeBlock.copied": {
+    "message": "کاپی ہو گیا",
+    "description": "The text shown when code is copied"
+  },
+  "theme.CodeBlock.copyButtonAriaLabel": {
+    "message": "کوڈ کاپی کریں",
+    "description": "The ARIA label for the copy button"
+  },
+  "theme.docs.breadcrumbs.home": {
+    "message": "ہوم",
+    "description": "The ARIA label for the home page in the breadcrumbs"
+  },
+  "theme.docs.sidebar.collapseButtonTitle": {
+    "message": "سائیڈ بار کو بند کریں",
+    "description": "The title attribute for the collapse button of the docs sidebar"
+  },
+  "theme.docs.sidebar.expandButtonTitle": {
+    "message": "سائیڈ بار کو کھولیں",
+    "description": "The title attribute for the expand button of the docs sidebar"
+  },
+  "theme.docs.sidebar.navAriaLabel": {
+    "message": "دستاویزات سائیڈ بار",
+    "description": "The ARIA label for the sidebar navigation"
+  },
+  "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
+    "message": "نیویگیشن بار بند کریں",
+    "description": "The ARIA label for close button of mobile sidebar"
+  },
+  "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
+    "message": "نیویگیشن بار ٹوگل کریں",
+    "description": "The ARIA label for hamburger menu button of mobile navigation"
+  },
+  "theme.docs.paginator.navAriaLabel": {
+    "message": "دستاویزات کے صفحات",
+    "description": "The ARIA label for the docs pagination"
+  },
+  "theme.docs.paginator.previous": {
+    "message": "پچھلا",
+    "description": "The label used for the previous pagination button in docs"
+  },
+  "theme.docs.paginator.next": {
+    "message": "اگلا",
+    "description": "The label used for the next pagination button in docs"
+  },
+  "theme.docs.sidebar.expandVersionLabel": {
+    "message": "ورژن {versionLabel} کو کھولیں",
+    "description": "The label used for the version collapse button of the docs sidebar"
+  },
+  "theme.docs.versions.unreleasedVersionLabel": {
+    "message": "یہ مستند کردہ ورژن {siteTitle} کے لیے {versionLabel} ورژن کا نمائندہ ہے۔",
+    "description": "The label used for the unreleased version"
+  },
+  "theme.docs.versions.unmaintainedVersionLabel": {
+    "message": "یہ {siteTitle} کے {versionLabel} ورژن کے لیے مستند کردہ دستاویزات ہیں۔",
+    "description": "The label used for the unmaintained version"
+  },
+  "theme.docs.versions.latestVersionSuggestionLabel": {
+    "message": "تازہ ترین دستاویزات کے لیے، دیکھیں: {latestVersionLabel} ({versionTagName})",
+    "description": "The label used for the suggestion of using the latest version"
+  },
+  "theme.docs.versions.latestVersionLinkLabel": {
+    "message": "تازہ ترین دیکھیں",
+    "description": "The label used for the link to the latest version"
+  },
+  "theme.common.editThisPage": {
+    "message": "اس صفحے میں ترمیم کریں",
+    "description": "The link label to edit the current page"
+  },
+  "theme.common.headingLinkTitle": {
+    "message": "ہیڈنگ کا مستقل لنک",
+    "description": "Title for link to heading"
+  },
+  "theme.lastUpdated.atDate": {
+    "message": " {date} کو",
+    "description": "The words used to describe on which date a page was last updated"
+  },
+  "theme.lastUpdated.byUser": {
+    "message": " {user} کے ذریعہ",
+    "description": "The words used to describe by who the page was last updated"
+  },
+  "theme.lastUpdated.lastUpdatedAtBy": {
+    "message": "آخری بار تازہ کاری {atDate}{byUser}",
+    "description": "The sentence used to display when a page was last updated, and by who"
+  },
+  "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
+    "message": "مینو پر واپس جائیں",
+    "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu"
+  },
+  "theme.navbar.mobileVersionsDropdown.label": {
+    "message": "ورژنز",
+    "description": "The label for the navbar versions dropdown on mobile view"
+  },
+  "theme.navbar.mobileLanguageDropdown.label": {
+    "message": "زبانیں",
+    "description": "The label for the navbar languages dropdown on mobile view"
+  },
+  "theme.common.skipToContent": {
+    "message": "مواد پر جائیں",
+    "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
+  },
+  "theme.TOCCollapsible.toggleButtonLabel": {
+    "message": "اس صفحے پر",
+    "description": "The label used by the button on the collapsible TOC component"
+  },
+  "theme.ErrorPageContent.title": {
+    "message": "صفحہ خراب ہو گیا!",
+    "description": "The title of the error page"
+  },
+  "theme.ErrorPageContent.tryAgain": {
+    "message": "دوبارہ کوشش کریں",
+    "description": "The label of the button to try again when the page crashed"
+  },
+  "theme.BackToTopButton.buttonAriaLabel": {
+    "message": "صفحے کے شروع پر واپس جائیں",
+    "description": "The ARIA label for the back to top button"
+  },
+  "theme.admonition.note": {
+    "message": "نوٹ",
+    "description": "The default label used for the Note admonition (:::note)"
+  },
+  "theme.admonition.tip": {
+    "message": "ٹپ",
+    "description": "The default label used for the Tip admonition (:::tip)"
+  },
+  "theme.admonition.danger": {
+    "message": "خطرہ",
+    "description": "The default label used for the Danger admonition (:::danger)"
+  },
+  "theme.admonition.info": {
+    "message": "معلومات",
+    "description": "The default label used for the Info admonition (:::info)"
+  },
+  "theme.admonition.caution": {
+    "message": "احتیاط",
+    "description": "The default label used for the Caution admonition (:::caution)"
+  },
+  "theme.navbar.mobileSidebarMenu.toggleButton.label": {
+    "message": "مینو ٹوگل کریں",
+    "description": "The label of the toggle button of the mobile sidebar menu"
+  },
+  "theme.navbar.mobileSidebarMenu.backButtonLabel": {
+    "message": "واپس جائیں",
+    "description": "The label of the back button to return to main menu, inside the mobile sidebar menu"
+  },
+  "theme.docs.sidebar.collapseButtonAriaLabel": {
+    "message": "سائیڈ بار کو بند کریں",
+    "description": "The title attribute for the collapse button of the docs sidebar"
+  },
+  "theme.docs.sidebar.docSidebarItems.expandGroupSidebarItemAriaLabel": {
+    "message": "{label} کو کھولیں",
+    "description": "The ARIA label to expand the sidebar group"
+  },
+  "theme.docs.sidebar.docSidebarItems.collapseGroupSidebarItemAriaLabel": {
+    "message": "{label} کو بند کریں",
+    "description": "The ARIA label to collapse the sidebar group"
+  },
+  "theme.docs.sidebar.responsiveCloseButtonLabel": {
+    "message": "مینو بند کریں",
+    "description": "The ARIA label for the mobile close button of the docs sidebar"
+  },
+  "theme.docs.sidebar.responsiveOpenButtonLabel": {
+    "message": "مینو کھولیں",
+    "description": "The ARIA label for the mobile open button of the docs sidebar"
+  },
+  "theme.SearchBar.seeAll": {
+    "message": "سب دیکھیں"
+  },
+  "theme.SearchBar.seeAllLabel": {
+    "message": "{count} تلاش کے نتائج دیکھیں"
+  },
+  "theme.SearchBar.resultPageTitle": {
+    "message": "دیکھیں کہ \"{query}\" کے لیے تمام نتائج"
+  },
+  "theme.SearchBar.searchResult": {
+    "message": "دیکھیں کہ \"{title}\""
+  },
+  "theme.SearchBar.searchPlaceholder": {
+    "message": "تلاش کریں"
+  },
+  "theme.SearchPage.documentsFound.plurals": {
+    "message": "دستاویزات ملیں",
+    "description": "Pluralized label for \"{count} documents found\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.SearchPage.existingResultsTitle": {
+    "message": "\"{query}\" کے لیے نتائج"
+  },
+  "theme.SearchPage.emptyResultsTitle": {
+    "message": "تلاش کریں"
+  },
+  "theme.SearchPage.inputPlaceholder": {
+    "message": "یہاں اپنی تلاش لکھیں"
+  },
+  "theme.SearchPage.inputLabel": {
+    "message": "تلاش کریں"
+  },
+  "theme.SearchPage.algoliaLabel": {
+    "message": "Algolia کے ذریعے تلاش"
+  },
+  "theme.SearchPage.noResultsText": {
+    "message": "کوئی نتائج نہیں ملے"
+  },
+  "theme.SearchPage.fetchingNewResults": {
+    "message": "نئے نتائج لائے جا رہے ہیں..."
+  },
+  "theme.SearchModal.searchBox.resetButtonTitle": {
+    "message": "تلاش کی صفائی کریں"
+  },
+  "theme.SearchModal.searchBox.cancelButtonTitle": {
+    "message": "منسوخ کریں"
+  },
+  "theme.SearchModal.startScreen.recentSearchesTitle": {
+    "message": "حالیہ تلاشیں"
+  },
+  "theme.SearchModal.startScreen.noRecentSearchesText": {
+    "message": "کوئی حالیہ تلاش نہیں"
+  },
+  "theme.SearchModal.startScreen.saveRecentSearchButtonTitle": {
+    "message": "تلاش کو محفوظ کریں"
+  },
+  "theme.SearchModal.startScreen.removeRecentSearchButtonTitle": {
+    "message": "تلاش کو تاریخ سے ہٹائیں"
+  },
+  "theme.SearchModal.startScreen.favoriteSearchesTitle": {
+    "message": "پسندیدہ تلاشیں"
+  },
+  "theme.SearchModal.startScreen.removeFavoriteSearchButtonTitle": {
+    "message": "تلاش کو پسندیدہ سے ہٹائیں"
+  },
+  "theme.SearchModal.errorScreen.titleText": {
+    "message": "نتائج نہیں لائے جا سکے"
+  },
+  "theme.SearchModal.errorScreen.helpText": {
+    "message": "اپنے انٹرنیٹ کنکشن کو چیک کریں۔"
+  },
+  "theme.SearchModal.footer.selectText": {
+    "message": "منتخب کریں"
+  },
+  "theme.SearchModal.footer.selectKeyAriaLabel": {
+    "message": "Enter کلید"
+  },
+  "theme.SearchModal.footer.navigateText": {
+    "message": "نیویگیٹ کریں"
+  },
+  "theme.SearchModal.footer.navigateUpKeyAriaLabel": {
+    "message": "اوپر اسٹریل کلید"
+  },
+  "theme.SearchModal.footer.navigateDownKeyAriaLabel": {
+    "message": "نیچے اسٹریل کلید"
+  },
+  "theme.SearchModal.footer.closeText": {
+    "message": "بند کریں"
+  },
+  "theme.SearchModal.footer.closeKeyAriaLabel": {
+    "message": "Escape کلید"
+  },
+  "theme.SearchModal.noResultsScreen.noResultsText": {
+    "message": "کوئی نتائج نہیں ملے"
+  },
+  "theme.SearchModal.noResultsScreen.suggestedQueryText": {
+    "message": "تلاش کرنے کی کوشش کریں"
+  },
+  "theme.SearchModal.noResultsScreen.reportMissingResultsText": {
+    "message": "آپ کو اس کوائف کی توقع تھی؟"
+  },
+  "theme.SearchModal.noResultsScreen.reportMissingResultsLinkText": {
+    "message": "ہمیں بتائیں"
+  },
+  "theme.SearchModal.searchBox.searchSuggestion.text": {
+    "message": "تلاش کریں"
+  },
+  "theme.SearchModal.searchBox.searchSuggestion.prefix": {
+    "message": "کے لیے"
+  },
+  "theme.SearchModal.startScreen.recentlyClickedSearchesTitle": {
+    "message": "حالیہ کلک کی گئی تلاشیں"
+  }
+}

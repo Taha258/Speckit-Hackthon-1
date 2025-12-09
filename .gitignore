@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+dist/
+*.egg-info/
+
+# Node.js/TypeScript
+node_modules/
+dist/
+build/
+*.log
+package-lock.json
+
+# Universal
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+.vscode/
+.idea/
+config.bat
+temp_auto_push.bat
+temp_interactive_push.bat
